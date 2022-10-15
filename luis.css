@@ -1,0 +1,56 @@
+body {
+        background: black;
+	    font-size: 25px;
+} 
+img{
+		display:block;
+		margin:auto;
+		padding-top: none;
+		border-style: solid;
+		border-color: blue;
+ 	}
+
+ 	div{
+        background: none;
+
+ 	  }
+ 	p{
+ 		color: white ;
+ 		background: royalblue;
+ 		border-radius: 12px;
+ 		border-style: none;
+ 		font-family: cursive;
+ 	}
+ 	h1,H2{
+ 		text-align: center;
+ 		color: blue;
+	    font-size: 50px;
+	    text-shadow: 5px 2px 4px none;
+ 	}
+
+a{
+	cursor:!important;
+	color: white;
+	text-decoration:underline;
+}
+#titulo{
+
+	color: red;
+	font-size: 50px;
+	text-shadow: 5px 2px 4px blue;
+}
+
+strong{
+
+	color: black;
+}
+ol{
+	color: red;
+}
+h3{
+	color: blue;
+}
+h6{
+	color: red;
+	font-family: cursive;
+}
